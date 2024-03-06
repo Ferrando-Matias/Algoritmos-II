@@ -1,0 +1,7 @@
+C:\Users\matia\Desktop\Ejercicio30\Ejercicio30\bin\Debug\Ejercicio30.exe.config
+C:\Users\matia\Desktop\Ejercicio30\Ejercicio30\bin\Debug\Ejercicio30.exe
+C:\Users\matia\Desktop\Ejercicio30\Ejercicio30\bin\Debug\Ejercicio30.pdb
+C:\Users\matia\Desktop\Ejercicio30\Ejercicio30\obj\Debug\Ejercicio30.csproj.AssemblyReference.cache
+C:\Users\matia\Desktop\Ejercicio30\Ejercicio30\obj\Debug\Ejercicio30.csproj.CoreCompileInputs.cache
+C:\Users\matia\Desktop\Ejercicio30\Ejercicio30\obj\Debug\Ejercicio30.exe
+C:\Users\matia\Desktop\Ejercicio30\Ejercicio30\obj\Debug\Ejercicio30.pdb

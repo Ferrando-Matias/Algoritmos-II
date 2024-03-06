@@ -1,0 +1,7 @@
+G:\Mi unidad\01 - Colegios\Terciario\0.0 - Algoritmos y Estructuras de Datos II\03 - Ejercicios\Ejercicios Consola C# (REVISAR)\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+G:\Mi unidad\01 - Colegios\Terciario\0.0 - Algoritmos y Estructuras de Datos II\03 - Ejercicios\Ejercicios Consola C# (REVISAR)\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe
+G:\Mi unidad\01 - Colegios\Terciario\0.0 - Algoritmos y Estructuras de Datos II\03 - Ejercicios\Ejercicios Consola C# (REVISAR)\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.pdb
+G:\Mi unidad\01 - Colegios\Terciario\0.0 - Algoritmos y Estructuras de Datos II\03 - Ejercicios\Ejercicios Consola C# (REVISAR)\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.AssemblyReference.cache
+G:\Mi unidad\01 - Colegios\Terciario\0.0 - Algoritmos y Estructuras de Datos II\03 - Ejercicios\Ejercicios Consola C# (REVISAR)\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+G:\Mi unidad\01 - Colegios\Terciario\0.0 - Algoritmos y Estructuras de Datos II\03 - Ejercicios\Ejercicios Consola C# (REVISAR)\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.exe
+G:\Mi unidad\01 - Colegios\Terciario\0.0 - Algoritmos y Estructuras de Datos II\03 - Ejercicios\Ejercicios Consola C# (REVISAR)\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.pdb

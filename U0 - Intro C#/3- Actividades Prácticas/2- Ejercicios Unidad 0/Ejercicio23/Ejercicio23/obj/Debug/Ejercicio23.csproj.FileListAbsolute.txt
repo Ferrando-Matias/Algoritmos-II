@@ -1,0 +1,14 @@
+C:\Users\matia\Desktop\Ejercicio23\Ejercicio23\bin\Debug\Ejercicio23.exe.config
+C:\Users\matia\Desktop\Ejercicio23\Ejercicio23\bin\Debug\Ejercicio23.exe
+C:\Users\matia\Desktop\Ejercicio23\Ejercicio23\bin\Debug\Ejercicio23.pdb
+C:\Users\matia\Desktop\Ejercicio23\Ejercicio23\obj\Debug\Ejercicio23.csproj.AssemblyReference.cache
+C:\Users\matia\Desktop\Ejercicio23\Ejercicio23\obj\Debug\Ejercicio23.csproj.CoreCompileInputs.cache
+C:\Users\matia\Desktop\Ejercicio23\Ejercicio23\obj\Debug\Ejercicio23.exe
+C:\Users\matia\Desktop\Ejercicio23\Ejercicio23\obj\Debug\Ejercicio23.pdb
+G:\Mi unidad\01 - Colegios\Terciario\0.0 - Algoritmos y Estructuras de Datos II\03 - Ejercicios\Ejercicios Consola C# (REVISAR)\Ejercicio23\Ejercicio23\bin\Debug\Ejercicio23.exe.config
+G:\Mi unidad\01 - Colegios\Terciario\0.0 - Algoritmos y Estructuras de Datos II\03 - Ejercicios\Ejercicios Consola C# (REVISAR)\Ejercicio23\Ejercicio23\bin\Debug\Ejercicio23.exe
+G:\Mi unidad\01 - Colegios\Terciario\0.0 - Algoritmos y Estructuras de Datos II\03 - Ejercicios\Ejercicios Consola C# (REVISAR)\Ejercicio23\Ejercicio23\bin\Debug\Ejercicio23.pdb
+G:\Mi unidad\01 - Colegios\Terciario\0.0 - Algoritmos y Estructuras de Datos II\03 - Ejercicios\Ejercicios Consola C# (REVISAR)\Ejercicio23\Ejercicio23\obj\Debug\Ejercicio23.csproj.AssemblyReference.cache
+G:\Mi unidad\01 - Colegios\Terciario\0.0 - Algoritmos y Estructuras de Datos II\03 - Ejercicios\Ejercicios Consola C# (REVISAR)\Ejercicio23\Ejercicio23\obj\Debug\Ejercicio23.csproj.CoreCompileInputs.cache
+G:\Mi unidad\01 - Colegios\Terciario\0.0 - Algoritmos y Estructuras de Datos II\03 - Ejercicios\Ejercicios Consola C# (REVISAR)\Ejercicio23\Ejercicio23\obj\Debug\Ejercicio23.exe
+G:\Mi unidad\01 - Colegios\Terciario\0.0 - Algoritmos y Estructuras de Datos II\03 - Ejercicios\Ejercicios Consola C# (REVISAR)\Ejercicio23\Ejercicio23\obj\Debug\Ejercicio23.pdb

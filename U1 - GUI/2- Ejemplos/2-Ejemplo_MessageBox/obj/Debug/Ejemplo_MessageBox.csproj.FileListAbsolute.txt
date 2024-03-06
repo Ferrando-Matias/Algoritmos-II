@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\Ejemplo_MessageBox\bin\Debug\Ejemplo_MessageBox.exe.config
+C:\Users\Lenovo\source\repos\Ejemplo_MessageBox\bin\Debug\Ejemplo_MessageBox.exe
+C:\Users\Lenovo\source\repos\Ejemplo_MessageBox\bin\Debug\Ejemplo_MessageBox.pdb
+C:\Users\Lenovo\source\repos\Ejemplo_MessageBox\obj\Debug\Ejemplo_MessageBox.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Ejemplo_MessageBox\obj\Debug\Ejemplo_MessageBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\Ejemplo_MessageBox\obj\Debug\Ejemplo_MessageBox.frmMessageBox.resources
+C:\Users\Lenovo\source\repos\Ejemplo_MessageBox\obj\Debug\Ejemplo_MessageBox.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Ejemplo_MessageBox\obj\Debug\Ejemplo_MessageBox.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Ejemplo_MessageBox\obj\Debug\Ejemplo_MessageBox.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Ejemplo_MessageBox\obj\Debug\Ejemplo_MessageBox.exe
+C:\Users\Lenovo\source\repos\Ejemplo_MessageBox\obj\Debug\Ejemplo_MessageBox.pdb

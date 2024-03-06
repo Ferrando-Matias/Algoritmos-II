@@ -1,0 +1,7 @@
+C:\Users\matia\Desktop\Ejercicio28\Ejercicio28\bin\Debug\Ejercicio28.exe.config
+C:\Users\matia\Desktop\Ejercicio28\Ejercicio28\bin\Debug\Ejercicio28.exe
+C:\Users\matia\Desktop\Ejercicio28\Ejercicio28\bin\Debug\Ejercicio28.pdb
+C:\Users\matia\Desktop\Ejercicio28\Ejercicio28\obj\Debug\Ejercicio28.csproj.AssemblyReference.cache
+C:\Users\matia\Desktop\Ejercicio28\Ejercicio28\obj\Debug\Ejercicio28.csproj.CoreCompileInputs.cache
+C:\Users\matia\Desktop\Ejercicio28\Ejercicio28\obj\Debug\Ejercicio28.exe
+C:\Users\matia\Desktop\Ejercicio28\Ejercicio28\obj\Debug\Ejercicio28.pdb

@@ -1,0 +1,7 @@
+C:\Users\matia\Desktop\Ejercicio38\Ejercicio38\bin\Debug\Ejercicio38.exe.config
+C:\Users\matia\Desktop\Ejercicio38\Ejercicio38\bin\Debug\Ejercicio38.exe
+C:\Users\matia\Desktop\Ejercicio38\Ejercicio38\bin\Debug\Ejercicio38.pdb
+C:\Users\matia\Desktop\Ejercicio38\Ejercicio38\obj\Debug\Ejercicio38.csproj.AssemblyReference.cache
+C:\Users\matia\Desktop\Ejercicio38\Ejercicio38\obj\Debug\Ejercicio38.csproj.CoreCompileInputs.cache
+C:\Users\matia\Desktop\Ejercicio38\Ejercicio38\obj\Debug\Ejercicio38.exe
+C:\Users\matia\Desktop\Ejercicio38\Ejercicio38\obj\Debug\Ejercicio38.pdb

@@ -1,0 +1,22 @@
+C:\Users\Lenovo\source\repos\EjemplosControles\bin\Debug\EjemplosControles.exe.config
+C:\Users\Lenovo\source\repos\EjemplosControles\bin\Debug\EjemplosControles.exe
+C:\Users\Lenovo\source\repos\EjemplosControles\bin\Debug\EjemplosControles.pdb
+C:\Users\Lenovo\source\repos\EjemplosControles\obj\Debug\EjemplosControles.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\EjemplosControles\obj\Debug\EjemplosControles.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\EjemplosControles\obj\Debug\EjemplosControles.FrmControles.resources
+C:\Users\Lenovo\source\repos\EjemplosControles\obj\Debug\EjemplosControles.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\EjemplosControles\obj\Debug\EjemplosControles.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\EjemplosControles\obj\Debug\EjemplosControles.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\EjemplosControles\obj\Debug\EjemplosControles.exe
+C:\Users\Lenovo\source\repos\EjemplosControles\obj\Debug\EjemplosControles.pdb
+C:\Users\Lenovo\Desktop\VisualStudio C#\Ejemplos\EjemplosControles\bin\Debug\EjemplosControles.exe.config
+C:\Users\Lenovo\Desktop\VisualStudio C#\Ejemplos\EjemplosControles\bin\Debug\EjemplosControles.exe
+C:\Users\Lenovo\Desktop\VisualStudio C#\Ejemplos\EjemplosControles\bin\Debug\EjemplosControles.pdb
+C:\Users\Lenovo\Desktop\VisualStudio C#\Ejemplos\EjemplosControles\obj\Debug\EjemplosControles.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\VisualStudio C#\Ejemplos\EjemplosControles\obj\Debug\EjemplosControles.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\VisualStudio C#\Ejemplos\EjemplosControles\obj\Debug\EjemplosControles.FrmControles.resources
+C:\Users\Lenovo\Desktop\VisualStudio C#\Ejemplos\EjemplosControles\obj\Debug\EjemplosControles.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\VisualStudio C#\Ejemplos\EjemplosControles\obj\Debug\EjemplosControles.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\VisualStudio C#\Ejemplos\EjemplosControles\obj\Debug\EjemplosControles.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\VisualStudio C#\Ejemplos\EjemplosControles\obj\Debug\EjemplosControles.exe
+C:\Users\Lenovo\Desktop\VisualStudio C#\Ejemplos\EjemplosControles\obj\Debug\EjemplosControles.pdb

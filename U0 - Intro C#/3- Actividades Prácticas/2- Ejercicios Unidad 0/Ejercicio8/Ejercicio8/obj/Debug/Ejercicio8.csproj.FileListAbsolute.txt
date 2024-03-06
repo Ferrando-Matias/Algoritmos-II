@@ -1,0 +1,7 @@
+C:\Users\matia\Desktop\Ejercicio8\Ejercicio8\bin\Debug\Ejercicio8.exe.config
+C:\Users\matia\Desktop\Ejercicio8\Ejercicio8\bin\Debug\Ejercicio8.exe
+C:\Users\matia\Desktop\Ejercicio8\Ejercicio8\bin\Debug\Ejercicio8.pdb
+C:\Users\matia\Desktop\Ejercicio8\Ejercicio8\obj\Debug\Ejercicio8.csproj.AssemblyReference.cache
+C:\Users\matia\Desktop\Ejercicio8\Ejercicio8\obj\Debug\Ejercicio8.csproj.CoreCompileInputs.cache
+C:\Users\matia\Desktop\Ejercicio8\Ejercicio8\obj\Debug\Ejercicio8.exe
+C:\Users\matia\Desktop\Ejercicio8\Ejercicio8\obj\Debug\Ejercicio8.pdb

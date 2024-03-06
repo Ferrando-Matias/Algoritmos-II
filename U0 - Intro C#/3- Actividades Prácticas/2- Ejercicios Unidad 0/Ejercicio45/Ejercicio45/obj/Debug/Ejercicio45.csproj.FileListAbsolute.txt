@@ -1,0 +1,15 @@
+C:\Users\matia\Desktop\Ejercicio45\Ejercicio45\bin\Debug\Ejercicio45.exe.config
+C:\Users\matia\Desktop\Ejercicio45\Ejercicio45\bin\Debug\Ejercicio45.exe
+C:\Users\matia\Desktop\Ejercicio45\Ejercicio45\bin\Debug\Ejercicio45.pdb
+C:\Users\matia\Desktop\Ejercicio45\Ejercicio45\obj\Debug\Ejercicio45.csproj.AssemblyReference.cache
+C:\Users\matia\Desktop\Ejercicio45\Ejercicio45\obj\Debug\Ejercicio45.csproj.CoreCompileInputs.cache
+C:\Users\matia\Desktop\Ejercicio45\Ejercicio45\obj\Debug\Ejercicio45.exe
+C:\Users\matia\Desktop\Ejercicio45\Ejercicio45\obj\Debug\Ejercicio45.pdb
+G:\Mi unidad\01 - Colegios\Terciario\0.0 - Algoritmos y Estructuras de Datos II\01 - Ejercicios\Ejercicios Consola C# (REVISAR)\Ejercicio45\Ejercicio45\bin\Debug\Ejercicio45.exe.config
+G:\Mi unidad\01 - Colegios\Terciario\0.0 - Algoritmos y Estructuras de Datos II\01 - Ejercicios\Ejercicios Consola C# (REVISAR)\Ejercicio45\Ejercicio45\bin\Debug\Ejercicio45.exe
+G:\Mi unidad\01 - Colegios\Terciario\0.0 - Algoritmos y Estructuras de Datos II\01 - Ejercicios\Ejercicios Consola C# (REVISAR)\Ejercicio45\Ejercicio45\bin\Debug\Ejercicio45.pdb
+G:\Mi unidad\01 - Colegios\Terciario\0.0 - Algoritmos y Estructuras de Datos II\01 - Ejercicios\Ejercicios Consola C# (REVISAR)\Ejercicio45\Ejercicio45\obj\Debug\Ejercicio45.csproj.AssemblyReference.cache
+G:\Mi unidad\01 - Colegios\Terciario\0.0 - Algoritmos y Estructuras de Datos II\01 - Ejercicios\Ejercicios Consola C# (REVISAR)\Ejercicio45\Ejercicio45\obj\Debug\Ejercicio45.csproj.SuggestedBindingRedirects.cache
+G:\Mi unidad\01 - Colegios\Terciario\0.0 - Algoritmos y Estructuras de Datos II\01 - Ejercicios\Ejercicios Consola C# (REVISAR)\Ejercicio45\Ejercicio45\obj\Debug\Ejercicio45.csproj.CoreCompileInputs.cache
+G:\Mi unidad\01 - Colegios\Terciario\0.0 - Algoritmos y Estructuras de Datos II\01 - Ejercicios\Ejercicios Consola C# (REVISAR)\Ejercicio45\Ejercicio45\obj\Debug\Ejercicio45.exe
+G:\Mi unidad\01 - Colegios\Terciario\0.0 - Algoritmos y Estructuras de Datos II\01 - Ejercicios\Ejercicios Consola C# (REVISAR)\Ejercicio45\Ejercicio45\obj\Debug\Ejercicio45.pdb

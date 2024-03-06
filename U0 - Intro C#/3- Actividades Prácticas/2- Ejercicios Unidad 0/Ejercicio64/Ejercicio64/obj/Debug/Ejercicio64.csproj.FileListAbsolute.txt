@@ -1,0 +1,7 @@
+C:\Users\matia\Desktop\Ejercicio64\Ejercicio64\bin\Debug\Ejercicio64.exe.config
+C:\Users\matia\Desktop\Ejercicio64\Ejercicio64\bin\Debug\Ejercicio64.exe
+C:\Users\matia\Desktop\Ejercicio64\Ejercicio64\bin\Debug\Ejercicio64.pdb
+C:\Users\matia\Desktop\Ejercicio64\Ejercicio64\obj\Debug\Ejercicio64.csproj.AssemblyReference.cache
+C:\Users\matia\Desktop\Ejercicio64\Ejercicio64\obj\Debug\Ejercicio64.csproj.CoreCompileInputs.cache
+C:\Users\matia\Desktop\Ejercicio64\Ejercicio64\obj\Debug\Ejercicio64.exe
+C:\Users\matia\Desktop\Ejercicio64\Ejercicio64\obj\Debug\Ejercicio64.pdb

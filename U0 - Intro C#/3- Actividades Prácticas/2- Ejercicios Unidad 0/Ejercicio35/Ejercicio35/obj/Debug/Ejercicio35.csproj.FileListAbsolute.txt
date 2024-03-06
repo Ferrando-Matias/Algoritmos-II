@@ -1,0 +1,7 @@
+C:\Users\matia\Desktop\Ejercicio35\Ejercicio35\bin\Debug\Ejercicio35.exe.config
+C:\Users\matia\Desktop\Ejercicio35\Ejercicio35\bin\Debug\Ejercicio35.exe
+C:\Users\matia\Desktop\Ejercicio35\Ejercicio35\bin\Debug\Ejercicio35.pdb
+C:\Users\matia\Desktop\Ejercicio35\Ejercicio35\obj\Debug\Ejercicio35.csproj.AssemblyReference.cache
+C:\Users\matia\Desktop\Ejercicio35\Ejercicio35\obj\Debug\Ejercicio35.csproj.CoreCompileInputs.cache
+C:\Users\matia\Desktop\Ejercicio35\Ejercicio35\obj\Debug\Ejercicio35.exe
+C:\Users\matia\Desktop\Ejercicio35\Ejercicio35\obj\Debug\Ejercicio35.pdb

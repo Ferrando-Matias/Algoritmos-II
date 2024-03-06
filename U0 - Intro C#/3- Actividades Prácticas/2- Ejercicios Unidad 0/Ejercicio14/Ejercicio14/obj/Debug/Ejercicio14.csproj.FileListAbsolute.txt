@@ -1,0 +1,7 @@
+C:\Users\matia\Desktop\Ejercicio14\Ejercicio14\bin\Debug\Ejercicio14.exe.config
+C:\Users\matia\Desktop\Ejercicio14\Ejercicio14\bin\Debug\Ejercicio14.exe
+C:\Users\matia\Desktop\Ejercicio14\Ejercicio14\bin\Debug\Ejercicio14.pdb
+C:\Users\matia\Desktop\Ejercicio14\Ejercicio14\obj\Debug\Ejercicio14.csproj.AssemblyReference.cache
+C:\Users\matia\Desktop\Ejercicio14\Ejercicio14\obj\Debug\Ejercicio14.csproj.CoreCompileInputs.cache
+C:\Users\matia\Desktop\Ejercicio14\Ejercicio14\obj\Debug\Ejercicio14.exe
+C:\Users\matia\Desktop\Ejercicio14\Ejercicio14\obj\Debug\Ejercicio14.pdb

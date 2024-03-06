@@ -1,0 +1,7 @@
+C:\Users\matia\Desktop\Ejercicio66\Ejercicio66\obj\Debug\Ejercicio66.csproj.AssemblyReference.cache
+C:\Users\matia\Desktop\Ejercicio66\Ejercicio66\obj\Debug\Ejercicio66.csproj.CoreCompileInputs.cache
+C:\Users\matia\Desktop\Ejercicio66\Ejercicio66\bin\Debug\Ejercicio66.exe.config
+C:\Users\matia\Desktop\Ejercicio66\Ejercicio66\bin\Debug\Ejercicio66.exe
+C:\Users\matia\Desktop\Ejercicio66\Ejercicio66\bin\Debug\Ejercicio66.pdb
+C:\Users\matia\Desktop\Ejercicio66\Ejercicio66\obj\Debug\Ejercicio66.exe
+C:\Users\matia\Desktop\Ejercicio66\Ejercicio66\obj\Debug\Ejercicio66.pdb

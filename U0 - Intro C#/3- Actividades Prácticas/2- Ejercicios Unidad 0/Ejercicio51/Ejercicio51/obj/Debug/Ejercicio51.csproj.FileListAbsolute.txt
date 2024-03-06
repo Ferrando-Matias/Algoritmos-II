@@ -1,0 +1,22 @@
+C:\Users\matia\Desktop\Ejercicio51\Ejercicio51\bin\Debug\Ejercicio51.exe.config
+C:\Users\matia\Desktop\Ejercicio51\Ejercicio51\bin\Debug\Ejercicio51.exe
+C:\Users\matia\Desktop\Ejercicio51\Ejercicio51\bin\Debug\Ejercicio51.pdb
+C:\Users\matia\Desktop\Ejercicio51\Ejercicio51\obj\Debug\Ejercicio51.csproj.AssemblyReference.cache
+C:\Users\matia\Desktop\Ejercicio51\Ejercicio51\obj\Debug\Ejercicio51.csproj.CoreCompileInputs.cache
+C:\Users\matia\Desktop\Ejercicio51\Ejercicio51\obj\Debug\Ejercicio51.exe
+C:\Users\matia\Desktop\Ejercicio51\Ejercicio51\obj\Debug\Ejercicio51.pdb
+G:\Mi unidad\01 - Colegios\Terciario\0.0 - Algoritmos y Estructuras de Datos II\01 - Ejercicios\Ejercicios Consola C# (REVISAR)\Ejercicio51\Ejercicio51\bin\Debug\Ejercicio51.exe.config
+G:\Mi unidad\01 - Colegios\Terciario\0.0 - Algoritmos y Estructuras de Datos II\01 - Ejercicios\Ejercicios Consola C# (REVISAR)\Ejercicio51\Ejercicio51\bin\Debug\Ejercicio51.exe
+G:\Mi unidad\01 - Colegios\Terciario\0.0 - Algoritmos y Estructuras de Datos II\01 - Ejercicios\Ejercicios Consola C# (REVISAR)\Ejercicio51\Ejercicio51\bin\Debug\Ejercicio51.pdb
+G:\Mi unidad\01 - Colegios\Terciario\0.0 - Algoritmos y Estructuras de Datos II\01 - Ejercicios\Ejercicios Consola C# (REVISAR)\Ejercicio51\Ejercicio51\obj\Debug\Ejercicio51.csproj.AssemblyReference.cache
+G:\Mi unidad\01 - Colegios\Terciario\0.0 - Algoritmos y Estructuras de Datos II\01 - Ejercicios\Ejercicios Consola C# (REVISAR)\Ejercicio51\Ejercicio51\obj\Debug\Ejercicio51.csproj.SuggestedBindingRedirects.cache
+G:\Mi unidad\01 - Colegios\Terciario\0.0 - Algoritmos y Estructuras de Datos II\01 - Ejercicios\Ejercicios Consola C# (REVISAR)\Ejercicio51\Ejercicio51\obj\Debug\Ejercicio51.csproj.CoreCompileInputs.cache
+G:\Mi unidad\01 - Colegios\Terciario\0.0 - Algoritmos y Estructuras de Datos II\01 - Ejercicios\Ejercicios Consola C# (REVISAR)\Ejercicio51\Ejercicio51\obj\Debug\Ejercicio51.exe
+G:\Mi unidad\01 - Colegios\Terciario\0.0 - Algoritmos y Estructuras de Datos II\01 - Ejercicios\Ejercicios Consola C# (REVISAR)\Ejercicio51\Ejercicio51\obj\Debug\Ejercicio51.pdb
+G:\Mi unidad\01 - Colegios\Terciario\0.0 - Algoritmos y Estructuras de Datos II\03 - Ejercicios\Ejercicios Consola C# (REVISAR)\Ejercicio51\Ejercicio51\bin\Debug\Ejercicio51.exe.config
+G:\Mi unidad\01 - Colegios\Terciario\0.0 - Algoritmos y Estructuras de Datos II\03 - Ejercicios\Ejercicios Consola C# (REVISAR)\Ejercicio51\Ejercicio51\bin\Debug\Ejercicio51.exe
+G:\Mi unidad\01 - Colegios\Terciario\0.0 - Algoritmos y Estructuras de Datos II\03 - Ejercicios\Ejercicios Consola C# (REVISAR)\Ejercicio51\Ejercicio51\bin\Debug\Ejercicio51.pdb
+G:\Mi unidad\01 - Colegios\Terciario\0.0 - Algoritmos y Estructuras de Datos II\03 - Ejercicios\Ejercicios Consola C# (REVISAR)\Ejercicio51\Ejercicio51\obj\Debug\Ejercicio51.csproj.AssemblyReference.cache
+G:\Mi unidad\01 - Colegios\Terciario\0.0 - Algoritmos y Estructuras de Datos II\03 - Ejercicios\Ejercicios Consola C# (REVISAR)\Ejercicio51\Ejercicio51\obj\Debug\Ejercicio51.csproj.CoreCompileInputs.cache
+G:\Mi unidad\01 - Colegios\Terciario\0.0 - Algoritmos y Estructuras de Datos II\03 - Ejercicios\Ejercicios Consola C# (REVISAR)\Ejercicio51\Ejercicio51\obj\Debug\Ejercicio51.exe
+G:\Mi unidad\01 - Colegios\Terciario\0.0 - Algoritmos y Estructuras de Datos II\03 - Ejercicios\Ejercicios Consola C# (REVISAR)\Ejercicio51\Ejercicio51\obj\Debug\Ejercicio51.pdb

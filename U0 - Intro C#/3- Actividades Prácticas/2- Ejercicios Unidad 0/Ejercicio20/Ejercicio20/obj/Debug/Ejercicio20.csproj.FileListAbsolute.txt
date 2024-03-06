@@ -1,0 +1,7 @@
+C:\Users\matia\Desktop\Ejercicio20\Ejercicio20\bin\Debug\Ejercicio20.exe.config
+C:\Users\matia\Desktop\Ejercicio20\Ejercicio20\bin\Debug\Ejercicio20.exe
+C:\Users\matia\Desktop\Ejercicio20\Ejercicio20\bin\Debug\Ejercicio20.pdb
+C:\Users\matia\Desktop\Ejercicio20\Ejercicio20\obj\Debug\Ejercicio20.csproj.AssemblyReference.cache
+C:\Users\matia\Desktop\Ejercicio20\Ejercicio20\obj\Debug\Ejercicio20.csproj.CoreCompileInputs.cache
+C:\Users\matia\Desktop\Ejercicio20\Ejercicio20\obj\Debug\Ejercicio20.exe
+C:\Users\matia\Desktop\Ejercicio20\Ejercicio20\obj\Debug\Ejercicio20.pdb

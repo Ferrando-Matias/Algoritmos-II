@@ -1,0 +1,7 @@
+C:\Users\matia\Desktop\Ejercicio37\Ejercicio37\bin\Debug\Ejercicio37.exe.config
+C:\Users\matia\Desktop\Ejercicio37\Ejercicio37\bin\Debug\Ejercicio37.exe
+C:\Users\matia\Desktop\Ejercicio37\Ejercicio37\bin\Debug\Ejercicio37.pdb
+C:\Users\matia\Desktop\Ejercicio37\Ejercicio37\obj\Debug\Ejercicio37.csproj.AssemblyReference.cache
+C:\Users\matia\Desktop\Ejercicio37\Ejercicio37\obj\Debug\Ejercicio37.csproj.CoreCompileInputs.cache
+C:\Users\matia\Desktop\Ejercicio37\Ejercicio37\obj\Debug\Ejercicio37.exe
+C:\Users\matia\Desktop\Ejercicio37\Ejercicio37\obj\Debug\Ejercicio37.pdb

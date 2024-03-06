@@ -1,0 +1,7 @@
+C:\Users\matia\Desktop\Ejercicio42\Ejercicio42\bin\Debug\Ejercicio42.exe.config
+C:\Users\matia\Desktop\Ejercicio42\Ejercicio42\bin\Debug\Ejercicio42.exe
+C:\Users\matia\Desktop\Ejercicio42\Ejercicio42\bin\Debug\Ejercicio42.pdb
+C:\Users\matia\Desktop\Ejercicio42\Ejercicio42\obj\Debug\Ejercicio42.csproj.AssemblyReference.cache
+C:\Users\matia\Desktop\Ejercicio42\Ejercicio42\obj\Debug\Ejercicio42.csproj.CoreCompileInputs.cache
+C:\Users\matia\Desktop\Ejercicio42\Ejercicio42\obj\Debug\Ejercicio42.exe
+C:\Users\matia\Desktop\Ejercicio42\Ejercicio42\obj\Debug\Ejercicio42.pdb

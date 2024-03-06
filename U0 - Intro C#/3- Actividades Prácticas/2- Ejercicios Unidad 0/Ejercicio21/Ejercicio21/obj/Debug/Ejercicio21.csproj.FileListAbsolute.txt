@@ -1,0 +1,7 @@
+C:\Users\matia\Desktop\Ejercicio21\Ejercicio21\bin\Debug\Ejercicio21.exe.config
+C:\Users\matia\Desktop\Ejercicio21\Ejercicio21\bin\Debug\Ejercicio21.exe
+C:\Users\matia\Desktop\Ejercicio21\Ejercicio21\bin\Debug\Ejercicio21.pdb
+C:\Users\matia\Desktop\Ejercicio21\Ejercicio21\obj\Debug\Ejercicio21.csproj.AssemblyReference.cache
+C:\Users\matia\Desktop\Ejercicio21\Ejercicio21\obj\Debug\Ejercicio21.csproj.CoreCompileInputs.cache
+C:\Users\matia\Desktop\Ejercicio21\Ejercicio21\obj\Debug\Ejercicio21.exe
+C:\Users\matia\Desktop\Ejercicio21\Ejercicio21\obj\Debug\Ejercicio21.pdb

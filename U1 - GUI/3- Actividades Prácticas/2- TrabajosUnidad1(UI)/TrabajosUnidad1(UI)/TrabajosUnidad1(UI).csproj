@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3A9B02AC-E61F-4BE1-B82E-6A3C6867C1EA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>TrabajosUnidad1_UI_</RootNamespace>
+    <AssemblyName>TrabajosUnidad1%28UI%29</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FrmSeleccionador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSeleccionador.Designer.cs">
+      <DependentUpon>FrmSeleccionador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTP69.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTP69.Designer.cs">
+      <DependentUpon>FrmTP69.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTP70.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTP70.Designer.cs">
+      <DependentUpon>FrmTP70.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTP71.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTP71.Designer.cs">
+      <DependentUpon>FrmTP71.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTP72.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTP72.Designer.cs">
+      <DependentUpon>FrmTP72.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTP73.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTP73.Designer.cs">
+      <DependentUpon>FrmTP73.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTP74.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTP74.Designer.cs">
+      <DependentUpon>FrmTP74.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTP75.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTP75.Designer.cs">
+      <DependentUpon>FrmTP75.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTP76.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTP76.Designer.cs">
+      <DependentUpon>FrmTP76.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTP77.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTP77.Designer.cs">
+      <DependentUpon>FrmTP77.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTP78.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTP78.Designer.cs">
+      <DependentUpon>FrmTP78.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTP79.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTP79.Designer.cs">
+      <DependentUpon>FrmTP79.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTP80.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTP80.Designer.cs">
+      <DependentUpon>FrmTP80.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTP81.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTP81.Designer.cs">
+      <DependentUpon>FrmTP81.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTP82.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTP82.Designer.cs">
+      <DependentUpon>FrmTP82.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTP83.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTP83.Designer.cs">
+      <DependentUpon>FrmTP83.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="FrmTP68.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTP68.Designer.cs">
+      <DependentUpon>FrmTP68.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="FrmSeleccionador.resx">
+      <DependentUpon>FrmSeleccionador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTP68.resx">
+      <DependentUpon>FrmTP68.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTP69.resx">
+      <DependentUpon>FrmTP69.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTP70.resx">
+      <DependentUpon>FrmTP70.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTP71.resx">
+      <DependentUpon>FrmTP71.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTP72.resx">
+      <DependentUpon>FrmTP72.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTP73.resx">
+      <DependentUpon>FrmTP73.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTP74.resx">
+      <DependentUpon>FrmTP74.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTP75.resx">
+      <DependentUpon>FrmTP75.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTP76.resx">
+      <DependentUpon>FrmTP76.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTP77.resx">
+      <DependentUpon>FrmTP77.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTP78.resx">
+      <DependentUpon>FrmTP78.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTP79.resx">
+      <DependentUpon>FrmTP79.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTP80.resx">
+      <DependentUpon>FrmTP80.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTP81.resx">
+      <DependentUpon>FrmTP81.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTP82.resx">
+      <DependentUpon>FrmTP82.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTP83.resx">
+      <DependentUpon>FrmTP83.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

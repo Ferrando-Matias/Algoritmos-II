@@ -1,0 +1,14 @@
+C:\Users\matia\Desktop\Ejercicio15\Ejercicio15\bin\Debug\Ejercicio15.exe.config
+C:\Users\matia\Desktop\Ejercicio15\Ejercicio15\bin\Debug\Ejercicio15.exe
+C:\Users\matia\Desktop\Ejercicio15\Ejercicio15\bin\Debug\Ejercicio15.pdb
+C:\Users\matia\Desktop\Ejercicio15\Ejercicio15\obj\Debug\Ejercicio15.csproj.AssemblyReference.cache
+C:\Users\matia\Desktop\Ejercicio15\Ejercicio15\obj\Debug\Ejercicio15.csproj.CoreCompileInputs.cache
+C:\Users\matia\Desktop\Ejercicio15\Ejercicio15\obj\Debug\Ejercicio15.exe
+C:\Users\matia\Desktop\Ejercicio15\Ejercicio15\obj\Debug\Ejercicio15.pdb
+G:\Mi unidad\01 - Colegios\Terciario\0.0 - Algoritmos y Estructuras de Datos II\03 - Ejercicios\Ejercicios Consola C# (REVISAR)\Ejercicio15\Ejercicio15\bin\Debug\Ejercicio15.exe.config
+G:\Mi unidad\01 - Colegios\Terciario\0.0 - Algoritmos y Estructuras de Datos II\03 - Ejercicios\Ejercicios Consola C# (REVISAR)\Ejercicio15\Ejercicio15\bin\Debug\Ejercicio15.exe
+G:\Mi unidad\01 - Colegios\Terciario\0.0 - Algoritmos y Estructuras de Datos II\03 - Ejercicios\Ejercicios Consola C# (REVISAR)\Ejercicio15\Ejercicio15\bin\Debug\Ejercicio15.pdb
+G:\Mi unidad\01 - Colegios\Terciario\0.0 - Algoritmos y Estructuras de Datos II\03 - Ejercicios\Ejercicios Consola C# (REVISAR)\Ejercicio15\Ejercicio15\obj\Debug\Ejercicio15.csproj.AssemblyReference.cache
+G:\Mi unidad\01 - Colegios\Terciario\0.0 - Algoritmos y Estructuras de Datos II\03 - Ejercicios\Ejercicios Consola C# (REVISAR)\Ejercicio15\Ejercicio15\obj\Debug\Ejercicio15.csproj.CoreCompileInputs.cache
+G:\Mi unidad\01 - Colegios\Terciario\0.0 - Algoritmos y Estructuras de Datos II\03 - Ejercicios\Ejercicios Consola C# (REVISAR)\Ejercicio15\Ejercicio15\obj\Debug\Ejercicio15.exe
+G:\Mi unidad\01 - Colegios\Terciario\0.0 - Algoritmos y Estructuras de Datos II\03 - Ejercicios\Ejercicios Consola C# (REVISAR)\Ejercicio15\Ejercicio15\obj\Debug\Ejercicio15.pdb

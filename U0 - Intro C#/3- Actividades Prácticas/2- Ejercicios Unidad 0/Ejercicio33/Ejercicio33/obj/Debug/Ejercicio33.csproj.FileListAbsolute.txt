@@ -1,0 +1,7 @@
+C:\Users\matia\Desktop\Ejercicio33\Ejercicio33\bin\Debug\Ejercicio33.exe.config
+C:\Users\matia\Desktop\Ejercicio33\Ejercicio33\bin\Debug\Ejercicio33.exe
+C:\Users\matia\Desktop\Ejercicio33\Ejercicio33\bin\Debug\Ejercicio33.pdb
+C:\Users\matia\Desktop\Ejercicio33\Ejercicio33\obj\Debug\Ejercicio33.csproj.AssemblyReference.cache
+C:\Users\matia\Desktop\Ejercicio33\Ejercicio33\obj\Debug\Ejercicio33.csproj.CoreCompileInputs.cache
+C:\Users\matia\Desktop\Ejercicio33\Ejercicio33\obj\Debug\Ejercicio33.exe
+C:\Users\matia\Desktop\Ejercicio33\Ejercicio33\obj\Debug\Ejercicio33.pdb

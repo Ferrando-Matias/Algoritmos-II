@@ -1,0 +1,24 @@
+C:\Users\eduar\source\repos\ListasEjemplo\ListasEjemplo\bin\Debug\ListasEjemplo.exe.config
+C:\Users\eduar\source\repos\ListasEjemplo\ListasEjemplo\bin\Debug\ListasEjemplo.exe
+C:\Users\eduar\source\repos\ListasEjemplo\ListasEjemplo\bin\Debug\ListasEjemplo.pdb
+C:\Users\eduar\source\repos\ListasEjemplo\ListasEjemplo\obj\Debug\ListasEjemplo.csproj.AssemblyReference.cache
+C:\Users\eduar\source\repos\ListasEjemplo\ListasEjemplo\obj\Debug\ListasEjemplo.csproj.SuggestedBindingRedirects.cache
+C:\Users\eduar\source\repos\ListasEjemplo\ListasEjemplo\obj\Debug\ListasEjemplo.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\ListasEjemplo\ListasEjemplo\obj\Debug\ListasEjemplo.exe
+C:\Users\eduar\source\repos\ListasEjemplo\ListasEjemplo\obj\Debug\ListasEjemplo.pdb
+G:\Mi unidad\03 - Desarrollo\PRGs C#\0 - CONSOLA\ListasEjemplo\ListasEjemplo\obj\Debug\ListasEjemplo.csproj.AssemblyReference.cache
+G:\Mi unidad\03 - Desarrollo\PRGs C#\0 - CONSOLA\ListasEjemplo\ListasEjemplo\obj\Debug\ListasEjemplo.csproj.SuggestedBindingRedirects.cache
+G:\Mi unidad\03 - Desarrollo\PRGs C#\0 - CONSOLA\ListasEjemplo\ListasEjemplo\obj\Debug\ListasEjemplo.csproj.CoreCompileInputs.cache
+G:\Mi unidad\03 - Desarrollo\PRGs C#\0 - CONSOLA\ListasEjemplo\ListasEjemplo\obj\Debug\ListasEjemplo.exe
+G:\Mi unidad\03 - Desarrollo\PRGs C#\0 - CONSOLA\ListasEjemplo\ListasEjemplo\obj\Debug\ListasEjemplo.pdb
+G:\Mi unidad\03 - Desarrollo\PRGs C#\0 - CONSOLA\ListasEjemplo\ListasEjemplo\bin\Debug\ListasEjemplo.exe.config
+G:\Mi unidad\03 - Desarrollo\PRGs C#\0 - CONSOLA\ListasEjemplo\ListasEjemplo\bin\Debug\ListasEjemplo.exe
+G:\Mi unidad\03 - Desarrollo\PRGs C#\0 - CONSOLA\ListasEjemplo\ListasEjemplo\bin\Debug\ListasEjemplo.pdb
+C:\Users\Lenovo\Desktop\ListasEjemplo\ListasEjemplo\bin\Debug\ListasEjemplo.exe.config
+C:\Users\Lenovo\Desktop\ListasEjemplo\ListasEjemplo\bin\Debug\ListasEjemplo.exe
+C:\Users\Lenovo\Desktop\ListasEjemplo\ListasEjemplo\bin\Debug\ListasEjemplo.pdb
+C:\Users\Lenovo\Desktop\ListasEjemplo\ListasEjemplo\obj\Debug\ListasEjemplo.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\ListasEjemplo\ListasEjemplo\obj\Debug\ListasEjemplo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\ListasEjemplo\ListasEjemplo\obj\Debug\ListasEjemplo.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\ListasEjemplo\ListasEjemplo\obj\Debug\ListasEjemplo.exe
+C:\Users\Lenovo\Desktop\ListasEjemplo\ListasEjemplo\obj\Debug\ListasEjemplo.pdb

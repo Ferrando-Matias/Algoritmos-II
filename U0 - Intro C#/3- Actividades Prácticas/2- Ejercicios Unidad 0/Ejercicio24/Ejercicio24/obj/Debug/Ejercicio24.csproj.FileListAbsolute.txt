@@ -1,0 +1,7 @@
+C:\Users\matia\Desktop\Ejercicio24\Ejercicio24\bin\Debug\Ejercicio24.exe.config
+C:\Users\matia\Desktop\Ejercicio24\Ejercicio24\bin\Debug\Ejercicio24.exe
+C:\Users\matia\Desktop\Ejercicio24\Ejercicio24\bin\Debug\Ejercicio24.pdb
+C:\Users\matia\Desktop\Ejercicio24\Ejercicio24\obj\Debug\Ejercicio24.csproj.AssemblyReference.cache
+C:\Users\matia\Desktop\Ejercicio24\Ejercicio24\obj\Debug\Ejercicio24.csproj.CoreCompileInputs.cache
+C:\Users\matia\Desktop\Ejercicio24\Ejercicio24\obj\Debug\Ejercicio24.exe
+C:\Users\matia\Desktop\Ejercicio24\Ejercicio24\obj\Debug\Ejercicio24.pdb

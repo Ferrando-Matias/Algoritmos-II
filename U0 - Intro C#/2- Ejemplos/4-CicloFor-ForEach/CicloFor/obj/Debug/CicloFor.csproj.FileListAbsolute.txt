@@ -1,0 +1,7 @@
+C:\Users\matia\Desktop\CicloFor\CicloFor\bin\Debug\CicloFor.exe.config
+C:\Users\matia\Desktop\CicloFor\CicloFor\bin\Debug\CicloFor.exe
+C:\Users\matia\Desktop\CicloFor\CicloFor\bin\Debug\CicloFor.pdb
+C:\Users\matia\Desktop\CicloFor\CicloFor\obj\Debug\CicloFor.csproj.AssemblyReference.cache
+C:\Users\matia\Desktop\CicloFor\CicloFor\obj\Debug\CicloFor.csproj.CoreCompileInputs.cache
+C:\Users\matia\Desktop\CicloFor\CicloFor\obj\Debug\CicloFor.exe
+C:\Users\matia\Desktop\CicloFor\CicloFor\obj\Debug\CicloFor.pdb

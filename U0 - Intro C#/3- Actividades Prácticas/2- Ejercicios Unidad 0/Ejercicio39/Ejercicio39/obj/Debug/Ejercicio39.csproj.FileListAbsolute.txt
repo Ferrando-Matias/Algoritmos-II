@@ -1,0 +1,14 @@
+C:\Users\matia\Desktop\Ejercicio39\Ejercicio39\bin\Debug\Ejercicio39.exe.config
+C:\Users\matia\Desktop\Ejercicio39\Ejercicio39\bin\Debug\Ejercicio39.exe
+C:\Users\matia\Desktop\Ejercicio39\Ejercicio39\bin\Debug\Ejercicio39.pdb
+C:\Users\matia\Desktop\Ejercicio39\Ejercicio39\obj\Debug\Ejercicio39.csproj.AssemblyReference.cache
+C:\Users\matia\Desktop\Ejercicio39\Ejercicio39\obj\Debug\Ejercicio39.csproj.CoreCompileInputs.cache
+C:\Users\matia\Desktop\Ejercicio39\Ejercicio39\obj\Debug\Ejercicio39.exe
+C:\Users\matia\Desktop\Ejercicio39\Ejercicio39\obj\Debug\Ejercicio39.pdb
+G:\Mi unidad\01 - Colegios\Terciario\0.0 - Algoritmos y Estructuras de Datos II\03 - Ejercicios\Ejercicios Consola C# (REVISAR)\Ejercicio39\Ejercicio39\bin\Debug\Ejercicio39.exe.config
+G:\Mi unidad\01 - Colegios\Terciario\0.0 - Algoritmos y Estructuras de Datos II\03 - Ejercicios\Ejercicios Consola C# (REVISAR)\Ejercicio39\Ejercicio39\bin\Debug\Ejercicio39.exe
+G:\Mi unidad\01 - Colegios\Terciario\0.0 - Algoritmos y Estructuras de Datos II\03 - Ejercicios\Ejercicios Consola C# (REVISAR)\Ejercicio39\Ejercicio39\bin\Debug\Ejercicio39.pdb
+G:\Mi unidad\01 - Colegios\Terciario\0.0 - Algoritmos y Estructuras de Datos II\03 - Ejercicios\Ejercicios Consola C# (REVISAR)\Ejercicio39\Ejercicio39\obj\Debug\Ejercicio39.csproj.AssemblyReference.cache
+G:\Mi unidad\01 - Colegios\Terciario\0.0 - Algoritmos y Estructuras de Datos II\03 - Ejercicios\Ejercicios Consola C# (REVISAR)\Ejercicio39\Ejercicio39\obj\Debug\Ejercicio39.csproj.CoreCompileInputs.cache
+G:\Mi unidad\01 - Colegios\Terciario\0.0 - Algoritmos y Estructuras de Datos II\03 - Ejercicios\Ejercicios Consola C# (REVISAR)\Ejercicio39\Ejercicio39\obj\Debug\Ejercicio39.exe
+G:\Mi unidad\01 - Colegios\Terciario\0.0 - Algoritmos y Estructuras de Datos II\03 - Ejercicios\Ejercicios Consola C# (REVISAR)\Ejercicio39\Ejercicio39\obj\Debug\Ejercicio39.pdb

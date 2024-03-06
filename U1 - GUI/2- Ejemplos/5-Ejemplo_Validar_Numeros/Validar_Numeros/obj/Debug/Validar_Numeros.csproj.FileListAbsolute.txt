@@ -1,0 +1,11 @@
+C:\Users\eduar\source\repos\Validar_Numeros\Validar_Numeros\bin\Debug\Validar_Numeros.exe.config
+C:\Users\eduar\source\repos\Validar_Numeros\Validar_Numeros\bin\Debug\Validar_Numeros.exe
+C:\Users\eduar\source\repos\Validar_Numeros\Validar_Numeros\bin\Debug\Validar_Numeros.pdb
+C:\Users\eduar\source\repos\Validar_Numeros\Validar_Numeros\obj\Debug\Validar_Numeros.csproj.AssemblyReference.cache
+C:\Users\eduar\source\repos\Validar_Numeros\Validar_Numeros\obj\Debug\Validar_Numeros.csproj.SuggestedBindingRedirects.cache
+C:\Users\eduar\source\repos\Validar_Numeros\Validar_Numeros\obj\Debug\Validar_Numeros.Form1.resources
+C:\Users\eduar\source\repos\Validar_Numeros\Validar_Numeros\obj\Debug\Validar_Numeros.Properties.Resources.resources
+C:\Users\eduar\source\repos\Validar_Numeros\Validar_Numeros\obj\Debug\Validar_Numeros.csproj.GenerateResource.cache
+C:\Users\eduar\source\repos\Validar_Numeros\Validar_Numeros\obj\Debug\Validar_Numeros.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\Validar_Numeros\Validar_Numeros\obj\Debug\Validar_Numeros.exe
+C:\Users\eduar\source\repos\Validar_Numeros\Validar_Numeros\obj\Debug\Validar_Numeros.pdb

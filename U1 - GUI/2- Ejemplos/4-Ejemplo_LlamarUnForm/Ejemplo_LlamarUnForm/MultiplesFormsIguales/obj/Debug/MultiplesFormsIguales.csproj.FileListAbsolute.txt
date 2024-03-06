@@ -1,0 +1,34 @@
+C:\Users\Edu\source\repos\MultiplesFormsIguales\MultiplesFormsIguales\bin\Debug\MultiplesFormsIguales.exe.config
+C:\Users\Edu\source\repos\MultiplesFormsIguales\MultiplesFormsIguales\bin\Debug\MultiplesFormsIguales.exe
+C:\Users\Edu\source\repos\MultiplesFormsIguales\MultiplesFormsIguales\bin\Debug\MultiplesFormsIguales.pdb
+C:\Users\Edu\source\repos\MultiplesFormsIguales\MultiplesFormsIguales\obj\Debug\MultiplesFormsIguales.csprojAssemblyReference.cache
+C:\Users\Edu\source\repos\MultiplesFormsIguales\MultiplesFormsIguales\obj\Debug\MultiplesFormsIguales.Form1.resources
+C:\Users\Edu\source\repos\MultiplesFormsIguales\MultiplesFormsIguales\obj\Debug\MultiplesFormsIguales.Form2.resources
+C:\Users\Edu\source\repos\MultiplesFormsIguales\MultiplesFormsIguales\obj\Debug\MultiplesFormsIguales.Properties.Resources.resources
+C:\Users\Edu\source\repos\MultiplesFormsIguales\MultiplesFormsIguales\obj\Debug\MultiplesFormsIguales.csproj.GenerateResource.cache
+C:\Users\Edu\source\repos\MultiplesFormsIguales\MultiplesFormsIguales\obj\Debug\MultiplesFormsIguales.exe
+C:\Users\Edu\source\repos\MultiplesFormsIguales\MultiplesFormsIguales\obj\Debug\MultiplesFormsIguales.pdb
+G:\Mi unidad\03 - Desarrollo\PRGs C#\MultiplesFormsIguales\MultiplesFormsIguales\bin\Debug\MultiplesFormsIguales.exe.config
+G:\Mi unidad\03 - Desarrollo\PRGs C#\MultiplesFormsIguales\MultiplesFormsIguales\bin\Debug\MultiplesFormsIguales.exe
+G:\Mi unidad\03 - Desarrollo\PRGs C#\MultiplesFormsIguales\MultiplesFormsIguales\bin\Debug\MultiplesFormsIguales.pdb
+G:\Mi unidad\03 - Desarrollo\PRGs C#\MultiplesFormsIguales\MultiplesFormsIguales\obj\Debug\MultiplesFormsIguales.csproj.AssemblyReference.cache
+G:\Mi unidad\03 - Desarrollo\PRGs C#\MultiplesFormsIguales\MultiplesFormsIguales\obj\Debug\MultiplesFormsIguales.csproj.SuggestedBindingRedirects.cache
+G:\Mi unidad\03 - Desarrollo\PRGs C#\MultiplesFormsIguales\MultiplesFormsIguales\obj\Debug\MultiplesFormsIguales.Form1.resources
+G:\Mi unidad\03 - Desarrollo\PRGs C#\MultiplesFormsIguales\MultiplesFormsIguales\obj\Debug\MultiplesFormsIguales.Form2.resources
+G:\Mi unidad\03 - Desarrollo\PRGs C#\MultiplesFormsIguales\MultiplesFormsIguales\obj\Debug\MultiplesFormsIguales.Properties.Resources.resources
+G:\Mi unidad\03 - Desarrollo\PRGs C#\MultiplesFormsIguales\MultiplesFormsIguales\obj\Debug\MultiplesFormsIguales.csproj.GenerateResource.cache
+G:\Mi unidad\03 - Desarrollo\PRGs C#\MultiplesFormsIguales\MultiplesFormsIguales\obj\Debug\MultiplesFormsIguales.csproj.CoreCompileInputs.cache
+G:\Mi unidad\03 - Desarrollo\PRGs C#\MultiplesFormsIguales\MultiplesFormsIguales\obj\Debug\MultiplesFormsIguales.exe
+G:\Mi unidad\03 - Desarrollo\PRGs C#\MultiplesFormsIguales\MultiplesFormsIguales\obj\Debug\MultiplesFormsIguales.pdb
+C:\Users\Lenovo\Desktop\Ejemplo_PasarParametrosaUnForm\Ejemplo_PasarParametrosaUnForm\MultiplesFormsIguales\obj\Debug\MultiplesFormsIguales.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Ejemplo_PasarParametrosaUnForm\Ejemplo_PasarParametrosaUnForm\MultiplesFormsIguales\obj\Debug\MultiplesFormsIguales.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\Ejemplo_PasarParametrosaUnForm\Ejemplo_PasarParametrosaUnForm\MultiplesFormsIguales\obj\Debug\MultiplesFormsIguales.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Ejemplo_PasarParametrosaUnForm\Ejemplo_PasarParametrosaUnForm\MultiplesFormsIguales\obj\Debug\MultiplesFormsIguales.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Ejemplo_PasarParametrosaUnForm\Ejemplo_PasarParametrosaUnForm\MultiplesFormsIguales\obj\Debug\MultiplesFormsIguales.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Ejemplo_PasarParametrosaUnForm\Ejemplo_PasarParametrosaUnForm\MultiplesFormsIguales\obj\Debug\MultiplesFormsIguales.exe
+C:\Users\Lenovo\Desktop\Ejemplo_PasarParametrosaUnForm\Ejemplo_PasarParametrosaUnForm\MultiplesFormsIguales\obj\Debug\MultiplesFormsIguales.pdb
+C:\Users\Lenovo\Desktop\Ejemplo_PasarParametrosaUnForm\Ejemplo_PasarParametrosaUnForm\MultiplesFormsIguales\bin\Debug\MultiplesFormsIguales.exe.config
+C:\Users\Lenovo\Desktop\Ejemplo_PasarParametrosaUnForm\Ejemplo_PasarParametrosaUnForm\MultiplesFormsIguales\bin\Debug\MultiplesFormsIguales.exe
+C:\Users\Lenovo\Desktop\Ejemplo_PasarParametrosaUnForm\Ejemplo_PasarParametrosaUnForm\MultiplesFormsIguales\bin\Debug\MultiplesFormsIguales.pdb
+C:\Users\Lenovo\Desktop\Ejemplo_PasarParametrosaUnForm\Ejemplo_PasarParametrosaUnForm\MultiplesFormsIguales\obj\Debug\MultiplesFormsIguales.FrmInicial.resources
+C:\Users\Lenovo\Desktop\Ejemplo_PasarParametrosaUnForm\Ejemplo_PasarParametrosaUnForm\MultiplesFormsIguales\obj\Debug\MultiplesFormsIguales.frmGenerico.resources

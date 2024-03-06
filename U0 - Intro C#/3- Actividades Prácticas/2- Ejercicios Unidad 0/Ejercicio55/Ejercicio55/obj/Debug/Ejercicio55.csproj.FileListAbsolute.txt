@@ -1,0 +1,7 @@
+C:\Users\Mati\Desktop\Ejercicio55\Ejercicio55\bin\Debug\Ejercicio55.exe.config
+C:\Users\Mati\Desktop\Ejercicio55\Ejercicio55\bin\Debug\Ejercicio55.exe
+C:\Users\Mati\Desktop\Ejercicio55\Ejercicio55\bin\Debug\Ejercicio55.pdb
+C:\Users\Mati\Desktop\Ejercicio55\Ejercicio55\obj\Debug\Ejercicio55.csproj.AssemblyReference.cache
+C:\Users\Mati\Desktop\Ejercicio55\Ejercicio55\obj\Debug\Ejercicio55.csproj.CoreCompileInputs.cache
+C:\Users\Mati\Desktop\Ejercicio55\Ejercicio55\obj\Debug\Ejercicio55.exe
+C:\Users\Mati\Desktop\Ejercicio55\Ejercicio55\obj\Debug\Ejercicio55.pdb

@@ -1,0 +1,7 @@
+C:\Users\matia\Desktop\Ejercicio17\Ejercicio17\bin\Debug\Ejercicio17.exe.config
+C:\Users\matia\Desktop\Ejercicio17\Ejercicio17\bin\Debug\Ejercicio17.exe
+C:\Users\matia\Desktop\Ejercicio17\Ejercicio17\bin\Debug\Ejercicio17.pdb
+C:\Users\matia\Desktop\Ejercicio17\Ejercicio17\obj\Debug\Ejercicio17.csproj.AssemblyReference.cache
+C:\Users\matia\Desktop\Ejercicio17\Ejercicio17\obj\Debug\Ejercicio17.csproj.CoreCompileInputs.cache
+C:\Users\matia\Desktop\Ejercicio17\Ejercicio17\obj\Debug\Ejercicio17.exe
+C:\Users\matia\Desktop\Ejercicio17\Ejercicio17\obj\Debug\Ejercicio17.pdb
