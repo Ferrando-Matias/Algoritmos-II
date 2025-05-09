@@ -47,6 +47,19 @@ namespace Ejercicio52
                 }
             }
 
+            for (int i = 0; i < elementosExclusivos.Count; i++)
+            {  
+                int elementoActual = elementosExclusivos[i];
+                for (int j = i + 1; j < elementosExclusivos.Count; j++)
+                {
+                    if (elementosExclusivos[j] == elementoActual)
+                    {
+                        elementosExclusivos.RemoveAt(j);
+                        j--;
+                    }
+                }
+            }
+            
             // Mostrar los elementos exclusivos encontrados
             Console.WriteLine("Elementos exclusivos encontrados en la primera lista:");
             foreach (int numero in elementosExclusivos)
